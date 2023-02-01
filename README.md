@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gcontolini
-- 👀 I’m interested in marine community ecology, climate change ecology, population-level trait variation, and natural resource management.
-- 🌱 I’m currently learning Git and GitHub so I can contribute to big data projects, specifically those involving lots of oceanographic data.
+- 👀 I’m interested in marine community ecology, kelp forest restoration, climate change ecology, population-level trait variation, and natural resource management.
+- 🌱 I’m currently learning Git and GitHub so I can contribute to big data projects, like those involving lots of species or oceanographic data.
 - 💞️ I’m looking to collaborate on climate change ecology projects!
 - 📫 The best way to reach me is through email: gina@contolini.com.
